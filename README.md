@@ -1,1 +1,1 @@
-Adding a line and commiting
+Adding a line and commiting to show conflict in remote
